@@ -1,0 +1,13 @@
+h1{
+	font-size: 300%;
+	color: yellow;
+	border-style: double;
+	border-width: 5px;
+	text-align: center;
+	border-radius: 20px;
+	background-color: royalblue;
+}
+img{
+   float:right	; width: 200px; height: 250px; 
+border-style: dotted; }
+p{ font-size:150%; color:red; font-style: italic; }
